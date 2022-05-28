@@ -864,6 +864,8 @@ button {
 .portfolio__img {
     width: 100%;
     transition: .4s;
+    min-height: 40%;
+    max-height: 40%;
 }
 
 .portfolio__data {
