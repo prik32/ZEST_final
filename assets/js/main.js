@@ -269,3 +269,4 @@ gsap.from('.home__note', {opacity: 0, duration: 1, delay:2.4, y: -30})
 
 gsap.from('.section__title', {opacity: 0, duration: 1, delay:2.8, y: -30})
 gsap.from('.section__subtitle', {opacity: 0, duration: 1, delay:3.0, y: -30})
+
